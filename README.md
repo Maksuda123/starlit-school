@@ -1,6 +1,5 @@
 # starlit-school
-Starlit School Website
-Live Site: http://starlitschool2017.com/
+Live Website: http://starlitschool2017.com/
 
 ### Technologies Use
 * HTML
